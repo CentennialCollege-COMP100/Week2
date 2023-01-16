@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/Week2Demo.csproj": {}
+  },
+  "projects": {
+    "/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/Week2Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/Week2Demo.csproj",
+        "projectName": "Week2Demo",
+        "projectPath": "/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/Week2Demo.csproj",
+        "packagesPath": "/Users/rania/.nuget/packages/",
+        "outputPath": "/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rania/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/bin/Debug/netcoreapp3.1/Week2Demo.deps.json
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/bin/Debug/netcoreapp3.1/Week2Demo.runtimeconfig.json
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/bin/Debug/netcoreapp3.1/Week2Demo.runtimeconfig.dev.json
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/bin/Debug/netcoreapp3.1/Week2Demo.dll
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/bin/Debug/netcoreapp3.1/Week2Demo.pdb
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.csproj.AssemblyReference.cache
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.AssemblyInfoInputs.cache
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.AssemblyInfo.cs
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.csproj.CoreCompileInputs.cache
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.dll
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.pdb
+/Users/rania/Desktop/Centennial College Web/COMP100/Demos/Week2Demo/Week2Demo/obj/Debug/netcoreapp3.1/Week2Demo.genruntimeconfig.cache

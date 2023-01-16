@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/rania/.dotnet/store/|arch|/|tfm|",
+      "/Users/rania/.nuget/packages"
+    ]
+  }
+}
